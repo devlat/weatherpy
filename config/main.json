@@ -1,0 +1,9 @@
+{
+  "version" : "1.0",
+  "api" : {
+    "url" : "http://api.openweathermap.org/data/2.5/weather",
+    "key" : "fda7404c469dceab5f281b7da0ee0180",
+    "city_name" : "Aqtobe",
+    "city_id" : 610611
+  }
+}
