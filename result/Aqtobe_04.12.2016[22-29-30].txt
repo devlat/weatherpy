@@ -1,5 +1,0 @@
-Datetime: 04.12.2016[22-29-30]
-City: Aqtobe
-Temp: -10
-Weather: Clouds
-Wind speed: 5
